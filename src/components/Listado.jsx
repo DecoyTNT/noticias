@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Noticia from './Noticia';
 import PropTypes from 'prop-types';
 

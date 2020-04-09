@@ -27,7 +27,7 @@ function App() {
   return (
     <Fragment>
       <Header
-        titulo="Buscador de noticias"
+        titulo="Noticias Internacionales"
       />
 
       <div className="container white">
